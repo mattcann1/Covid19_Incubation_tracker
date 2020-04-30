@@ -1,7 +1,6 @@
 # Covid19_Incubation_tracker
 
 This python code is for individuals that are entering the 14 day self-isolation after possible exposure to prevent the spread of Covid 19. This scipt plots the gamma distribution given from Lauer SA, Grantz KH, Bi Q, et al [1] and determines your progress through the incubation time.  
-![](Figure/gamma_dist.png)
 
 
 
